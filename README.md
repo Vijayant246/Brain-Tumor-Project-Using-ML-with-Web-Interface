@@ -11,3 +11,8 @@ This project implements a deep learning-based approach to predict brain tumors u
   A user-friendly web application to upload MRI images and receive predictions in real-time.
 
 ---
+## Instruction
+- **Data Sets of Kaggle**:
+  https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection/data?select=yes
+
+   
